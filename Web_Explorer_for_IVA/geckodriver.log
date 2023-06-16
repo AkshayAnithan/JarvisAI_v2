@@ -1,0 +1,212 @@
+1683968274165	geckodriver	INFO	Listening on 127.0.0.1:51859
+1683968274168	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilert7h1N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683968274830	Marionette	INFO	Marionette enabled
+1683968274834	Marionette	INFO	Listening on port 37937
+Read port: 37937
+WebDriver BiDi listening on ws://127.0.0.1:54967
+1683968274909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilert7h1N/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54967/devtools/browser/7fada445-c3ad-4c71-90d6-92e86b6ec842
+1683968278541	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 23907, MediaDecoderStateMachine #1] WARNING: Decoder=7f8b5a9fcc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 23907, MediaDecoderStateMachine #1] WARNING: Decoder=7f8b5a9bba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 23907, MediaDecoderStateMachine #1] WARNING: Decoder=7f8b5a9fd800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 23907, MediaDecoderStateMachine #1] WARNING: Decoder=7f8b54989d00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 23907, MediaDecoderStateMachine #1] WARNING: Decoder=7f8b54989a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 23907, MediaDecoderStateMachine #1] WARNING: Decoder=7f8b54989700 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+1683968280043	Marionette	INFO	Stopped listening on port 37937
+1683968283025	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1683968343030	geckodriver	INFO	Listening on 127.0.0.1:36887
+1683968343033	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIIm79R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683968343719	Marionette	INFO	Marionette enabled
+1683968343723	Marionette	INFO	Listening on port 37935
+Read port: 37935
+WebDriver BiDi listening on ws://127.0.0.1:57907
+1683968343797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIIm79R/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57907/devtools/browser/27ed95d6-0509-44e0-80c8-f6e0c3ede8bd
+1683968347661	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683968349286	Marionette	INFO	Stopped listening on port 37935
+1683968352144	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1683969944195	geckodriver	INFO	Listening on 127.0.0.1:52011
+1683969944703	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCUWWIW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683969945402	Marionette	INFO	Marionette enabled
+1683969945407	Marionette	INFO	Listening on port 45043
+WebDriver BiDi listening on ws://127.0.0.1:57327
+Read port: 45043
+1683969945624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCUWWIW/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57327/devtools/browser/03fa4107-683c-4763-b0e8-6d2644b23edd
+1683969950933	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 27246, MediaDecoderStateMachine #1] WARNING: Decoder=7f740fb06400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 27246, MediaDecoderStateMachine #1] WARNING: Decoder=7f7403fce700 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 27246, MediaDecoderStateMachine #1] WARNING: Decoder=7f7403fcea00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 27246, MediaDecoderStateMachine #1] WARNING: Decoder=7f74072b2200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 27246, MediaDecoderStateMachine #1] WARNING: Decoder=7f7403fce100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 27246, MediaDecoderStateMachine #1] WARNING: Decoder=7f740fb05b00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 27246, MediaDecoderStateMachine #1] WARNING: Decoder=7f7403fce400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 27246, MediaDecoderStateMachine #1] WARNING: Decoder=7f740fb33500 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://pagead2.googlesyndication.com/bg/A6DkqFxHDGl7nKslapf_JwSgNLk5S51nxKr2xdQhtdg.js line 2 > eval line 5459 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/A6DkqFxHDGl7nKslapf_JwSgNLk5S51nxKr2xdQhtdg.js line 2 > eval line 810 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/CArqea_BMtmFg-uSis-Ut8_SWhTX20Rj4YEAuxCzmAg.js line 2 > eval line 3460 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683970025833	Marionette	INFO	Stopped listening on port 45043
+JavaScript error: https://www.youtube.com/watch?v=rYEDA3JcQqw&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=rYEDA3JcQqw&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=rYEDA3JcQqw&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/CArqea_BMtmFg-uSis-Ut8_SWhTX20Rj4YEAuxCzmAg.js line 2 > eval, line 3460: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=rYEDA3JcQqw&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=rYEDA3JcQqw&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=rYEDA3JcQqw&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=rYEDA3JcQqw&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=rYEDA3JcQqw&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=rYEDA3JcQqw&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=rYEDA3JcQqw&themeRefresh=1, line 12: TypeError: can't access dead object
+1683970134407	geckodriver	INFO	Listening on 127.0.0.1:52473
+1683970134915	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezbeESv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683970135594	Marionette	INFO	Marionette enabled
+1683970135599	Marionette	INFO	Listening on port 43283
+Read port: 43283
+WebDriver BiDi listening on ws://127.0.0.1:57367
+1683970135674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezbeESv/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57367/devtools/browser/7c11076a-59b1-4be5-b15a-addbd9025d8e
+1683970139602	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 28103, MediaDecoderStateMachine #1] WARNING: Decoder=7f61e3e6d400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 28103, MediaDecoderStateMachine #1] WARNING: Decoder=7f61e3e62100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 28103, MediaDecoderStateMachine #1] WARNING: Decoder=7f61e412c900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 28103, MediaDecoderStateMachine #1] WARNING: Decoder=7f61d8ebe200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 28103, MediaDecoderStateMachine #1] WARNING: Decoder=7f61d37a4c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 28103, MediaDecoderStateMachine #1] WARNING: Decoder=7f61d37a5200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 28103, MediaDecoderStateMachine #1] WARNING: Decoder=7f61d37a4f00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 28103, MediaDecoderStateMachine #1] WARNING: Decoder=7f61d37a5500 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://pagead2.googlesyndication.com/bg/A6DkqFxHDGl7nKslapf_JwSgNLk5S51nxKr2xdQhtdg.js line 2 > eval line 974 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/CArqea_BMtmFg-uSis-Ut8_SWhTX20Rj4YEAuxCzmAg.js line 2 > eval line 6016 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683970200643	Marionette	INFO	Stopped listening on port 43283
+1684409211657	geckodriver	INFO	Listening on 127.0.0.1:50763
+1684409212157	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNFRFU7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684409212854	Marionette	INFO	Marionette enabled
+1684409212859	Marionette	INFO	Listening on port 37463
+WebDriver BiDi listening on ws://127.0.0.1:60889
+Read port: 37463
+1684409213094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNFRFU7/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60889/devtools/browser/aa10fe92-df83-43b4-aba9-94366bcf76cb
+1684409216211	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 6323, MediaDecoderStateMachine #1] WARNING: Decoder=7f2cf37e5400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 6323, MediaDecoderStateMachine #1] WARNING: Decoder=7f2cf37e4b00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 6323, MediaDecoderStateMachine #1] WARNING: Decoder=7f2cf37e4e00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 6323, MediaDecoderStateMachine #1] WARNING: Decoder=7f2cf37e5100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 6323, MediaDecoderStateMachine #1] WARNING: Decoder=7f2cfd77e400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 6323, MediaDecoderStateMachine #1] WARNING: Decoder=7f2cf650a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 6323, MediaDecoderStateMachine #1] WARNING: Decoder=7f2cf650a300 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 6323, MediaDecoderStateMachine #1] WARNING: Decoder=7f2cf650a600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cHrP8GR4WD3-4SafWKd0oRFewpEF611yDaZvldToCrs.js line 2 > eval line 186 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/x6-XRccfDx3r2O7THpBpFunqW-NsQRs--Fb6O-0HhD0.js line 2 > eval line 7200 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684409232104	Marionette	INFO	Stopped listening on port 37463
+1684409275187	geckodriver	INFO	Listening on 127.0.0.1:46441
+1684409275696	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebBa2yR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684409276389	Marionette	INFO	Marionette enabled
+1684409276393	Marionette	INFO	Listening on port 37465
+Read port: 37465
+WebDriver BiDi listening on ws://127.0.0.1:47363
+1684409276470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebBa2yR/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:47363/devtools/browser/3d2c887b-e469-43aa-9d9b-fbc84b7b04ec
+1684409279465	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 7052, MediaDecoderStateMachine #1] WARNING: Decoder=7fa85a77b600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7052, MediaDecoderStateMachine #1] WARNING: Decoder=7fa85a53f400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7052, MediaDecoderStateMachine #1] WARNING: Decoder=7fa85a77bc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7052, MediaDecoderStateMachine #1] WARNING: Decoder=7fa863b32900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7052, MediaDecoderStateMachine #1] WARNING: Decoder=7fa856315c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7052, MediaDecoderStateMachine #1] WARNING: Decoder=7fa856315900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7052, MediaDecoderStateMachine #1] WARNING: Decoder=7fa856315f00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7052, MediaDecoderStateMachine #1] WARNING: Decoder=7fa856316200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cHrP8GR4WD3-4SafWKd0oRFewpEF611yDaZvldToCrs.js line 2 > eval line 6719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/x6-XRccfDx3r2O7THpBpFunqW-NsQRs--Fb6O-0HhD0.js line 2 > eval line 572 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684409289587	Marionette	INFO	Stopped listening on port 37465
+1684409310790	geckodriver	INFO	Listening on 127.0.0.1:47991
+1684409311299	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehLhv5p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684409312018	Marionette	INFO	Marionette enabled
+1684409312022	Marionette	INFO	Listening on port 34115
+WebDriver BiDi listening on ws://127.0.0.1:50595
+Read port: 34115
+1684409312245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehLhv5p/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50595/devtools/browser/163a8c85-f717-4f7f-ad87-fbe12736fbd7
+1684409315491	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 7673, MediaDecoderStateMachine #1] WARNING: Decoder=7f10ab669900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7673, MediaDecoderStateMachine #1] WARNING: Decoder=7f10ab66b100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7673, MediaDecoderStateMachine #1] WARNING: Decoder=7f10a14ada00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7673, MediaDecoderStateMachine #1] WARNING: Decoder=7f10a073dc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7673, MediaDecoderStateMachine #1] WARNING: Decoder=7f109c8ee900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7673, MediaDecoderStateMachine #1] WARNING: Decoder=7f109c8eec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7673, MediaDecoderStateMachine #1] WARNING: Decoder=7f109c8ee600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 7673, MediaDecoderStateMachine #1] WARNING: Decoder=7f109c8ee300 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b4kQu0tD4hSA-hVARc1fzzODE0daF2Vy-bPLW9uau78.js line 2 > eval line 7240 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cHrP8GR4WD3-4SafWKd0oRFewpEF611yDaZvldToCrs.js line 2 > eval line 5997 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/x6-XRccfDx3r2O7THpBpFunqW-NsQRs--Fb6O-0HhD0.js line 2 > eval line 5505 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684409548063	Marionette	INFO	Stopped listening on port 34115
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo

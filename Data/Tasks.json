@@ -1,0 +1,45 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["open","launch","start","visit"
+            ],
+            "responses":["open"
+            ]
+        },
+        {
+            "tag":"send",
+            "patterns":["whatsapp","send message","chat","send","send whatsapp","message"
+            ],
+            "responses":["whatsapp"
+            ]
+        },
+        {
+            "tag":"hello",
+            "patterns":["hello","hii","hey"
+            ],
+            "responses":["Hello Sir!",
+                "hey, I was really waiting for your presence.",
+                "Hey, I was literally thinking about you.",
+                "Hello Sir, was waiting for you!",
+                "Hello Sir, Nice to meet you.",
+                "Hello!",
+                "Hey, what's up sir?"
+            ]
+        },
+        {
+            "tag":"bye",
+            "patterns":["bye","good bye","see you later","sleep","exit"
+            ],
+            "responses":["Bye..",
+                "Are you sure?",
+                "Bye Sir, I am always a call away.",
+                "Dont leave me alone boy!",
+                "Okay, will miss you",
+                "See you later, Sir"
+            ]
+        }
+        
+    ]
+    
+}

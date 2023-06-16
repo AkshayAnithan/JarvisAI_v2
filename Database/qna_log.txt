@@ -1,0 +1,92 @@
+Question: what is python 
+Answer: Python is a programming language.
+Question: what is chemistry 
+Answer: Chemistry is the study of the composition, structure, properties, and reactions of matter.
+Question: what is nn? 
+Answer: There is no one-size-fits-all answer to this question, as the best neural network architecture for a given problem will vary depending on the specifics of the problem. However, some common architectures for neural networks include fully connected networks, convolutional neural networks, and recurrent neural networks.
+Question: what is kinematics 
+Answer: Kinematics is the branch of mechanics that deals with the motion of bodies without regard to the forces that cause the motion.
+Question: what is dipole 
+Answer: A dipole is a pair of equal and opposite electric charges, or a pair of equal and opposite magnetic poles.
+Question: what is the smallest unit of charge? 
+Answer: The smallest unit of charge is the electron.
+Question: what is the value of electron 
+Answer: The value of an electron is -1.602 x 10-19 coulombs.
+Question: what is coulombs law 
+Answer: Coulombs law states that the force between two electric charges is proportional to the product of the charges and inversely proportional to the square of the distance between them.
+Question: Two angles of a triangle measure 15° and 85 °. What is the measure for the third angle? 
+Answer: The third angle of the triangle must measure 90° in order for the triangle to be a valid shape. This is because the sum of the angles in a triangle must always equal 180°.
+Question: Two angles of a triangle measure 15 and 85. What is the measure for the third angle? 
+Answer: The third angle of the triangle must measure 90° in order for the triangle to be a valid shape. This is because the sum of the angles in a triangle must always equal 180°.
+Question: Simplify: (4 – 5) – (13 – 18 + 2). 
+Answer: The answer is -14.
+Question: hi 
+Answer: Hello, how can I help you?
+Question: & "d:/Akshay/S7/Project/Jarvis 3.0/.venv/Scripts/python.exe" "d:/Akshay/S7/Project/Jarvis 3.0/Jarvis.py" 
+Answer: This is an invalid question.
+Question: & "d:/Akshay/S7/Project/Jarvis 3.0/.venv/Scripts/python.exe" "d:/Akshay/S7/Project/Jarvis 3.0/Jarvis.py" 
+Answer: This is an invalid question.
+Question: & "d:/Akshay/S7/Project/Jarvis 3.0/.venv/Scripts/python.exe" "d:/Akshay/S7/Project/Jarvis 3.0/Jarvis.py" 
+Answer: This is an invalid question.
+Question: & "d:/Akshay/S7/Project/Jarvis 3.0/.venv/Scripts/python.exe" "d:/Akshay/S7/Project/Jarvis 3.0/Jarvis.py" 
+Answer: This is an invalid question.
+Question: hi 
+Answer: Hello, how can I help you?
+Question: speak 
+Answer: Hello, my name is Jarvis. I am a digital assistant created to help you with your needs. You can ask me anything you like.
+Question: exit 
+Answer: Thank you for using Jarvis. Goodbye!
+Question: & "d:/Akshay/S7/Project/Jarvis 3.0/.venv/Scripts/python.exe" "d:/Akshay/S7/Project/Jarvis 3.0/Features/Clap.py" 
+Answer: This is an invalid question.
+Question: hey jarvis what is the time 
+Answer: The current time is 12:15 PM.
+Question: what is the time 
+Answer: The current time is 12:15 PM.
+Question: Add 8.563 and 4.8292 
+Answer: The sum of 8.563 and 4.8292 is 13.3922.
+Question: A piece of wood of mass 0.03 kg is dropped from the top of a 100 m height building. At the same time, a bullet of mass 0.02 Kg is fired vertically upward, with a velocity 100 m/s, from the ground. The bullet gets embedded in the wood. Then the maximum height to which the combined system reaches above the top of the building before falling below is (g = 10 m/s) 
+Answer: The maximum height to which the combined system will reach is approximately 27.4 m.
+Question: python -u "d:\Akshay\S7\Project\Jarvis 3.0\Main.py" 
+Answer: This is an invalid question.
+Question: what is the last movie that in most 
+Answer: There is no one-size-fits-all answer to this question, as the best movie for a given person will vary depending on their individual preferences. However, some popular movies that may be worth watching include "The Shawshank Redemption," " Forrest Gump," and "The Godfather."
+Question: what is the highest grossing song of 
+Answer: There is no one-size-fits-all answer to this question, as the best song for a given person will vary depending on their individual preferences. However, some popular songs that may be worth listening to include "Bohemian Rhapsody" by Queen and "Billie Jean" by Michael Jackson.
+Question: what is your name 
+Answer: My name is Jarvis. I am a digital assistant created to help you with your needs. You can ask me anything you like.
+Question: jarvis what is my name 
+Answer: There is no one-size-fits-all answer to this question, as the best name for a given person will vary depending on their individual preferences. However, some popular names that may be worth considering include "John," "Jane," and "Smith."
+Question: what is my name jarvis 
+Answer: There is no one-size-fits-all answer to this question, as the best name for a given person will vary depending on their individual preferences. However, some popular names that may be worth considering include "John," "Jane," and "Smith."
+Question: what is my name 
+Answer: There is no one-size-fits-all answer to this question, as the best name for a given person will vary depending on their individual preferences. However, some popular names that may be worth considering include "John," "Jane," and "Smith."
+Question: hey jarvis what is my name 
+Answer: There is no one-size-fits-all answer to this question, as the best name for a given person will vary depending on their individual preferences. However, some popular names that may be worth considering include "John," "Jane," and "Smith."
+Question: what is my name 
+Answer: There is no one-size-fits-all answer to this question, as the best name for a given person will vary depending on their individual preferences. However, some popular names that may be worth considering include "John," "Jane," and "Smith."
+Question: hey jarvis what is my name 
+Answer: There is no one-size-fits-all answer to this question, as the best name for a given person will vary depending on their individual preferences. However, some popular names that may be worth considering include "John," "Jane," and "Smith."
+Question: where is it exactly my home 
+Answer: There is no one-size-fits-all answer to this question, as the best place for a given person's home will vary depending on their individual preferences. However, some popular places that may be worth considering include "New York," "Los Angeles," and "San Francisco."
+Question: hey what is the greatest news this month 
+Answer: There is no one-size-fits-all answer to this question, as the best news for a given person will vary depending on their individual preferences. However, some popular news stories that may be worth considering include the discovery of a new planet, the launch of a new spacecraft, and the discovery of a new element.
+Question: can you give a recap of what happened in the world yeaterday 
+Answer: There is no one-size-fits-all answer to this question, as the best recap for a given person will vary depending on their individual preferences. However, some popular events that may have occurred yesterday include the launch of a new spacecraft, the discovery of a new element, and the discovery of a new planet.
+Question: tell me about the new discovery of the successor of hubble space telescope 
+Answer: The successor of the Hubble Space Telescope, the James Webb Space Telescope, is set to launch in 2021. The telescope is designed to be much more powerful than its predecessor, and will be able to observe objects in greater detail.
+Question:  If the sides of a triangle are 26 cm, 24 cm and 10 cm, what is its area? 
+Answer: The area of the triangle is 120 cm².
+Question:  If the sides of a triangle are 26 cm, 24 cm and 10 cm, what is its area? 
+Answer: The area of the triangle is 120 cm².
+Question: The perimeter of a triangle is 28 cm and the inradius of the triangle is 2.5 cm. What is the area of the triangle? 
+Answer: The area of the triangle is approximately 67.5 cm².
+Question: no the answer is 35cm^2 
+Answer: This is an invalid question.
+Question: no the answer to the previous question is 35cm^2 
+Answer: This is an invalid question.
+Question: who are you 
+Answer: I am Jarvis, a digital assistant created to help you with your needs. You can ask me anything you like.
+Question: tell me something about naruto 
+Answer: There is no one-size-fits-all answer to this question, as the best answer for a given person will vary depending on their individual preferences. However, some popular facts about Naruto include that it is a Japanese manga series written and illustrated by Masashi Kishimoto, and that it tells the story of Naruto Uzumaki, a young ninja who seeks to become the Hokage, the leader of his village.
+Question: who is satosi nakamoto 
+Answer: Satoshi Nakamoto is the pseudonym of the person or persons who created the cryptocurrency Bitcoin.
